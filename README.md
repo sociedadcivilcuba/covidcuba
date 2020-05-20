@@ -12,4 +12,4 @@
 
 ### Contactos
 
-Visítanos en [Observatorio de Derechos Sociales - Cuba ](https://derechossocialescuba.org/).
+Visítanos en [Observatorio de Derechos Sociales - Cuba ](https://derechossocialescuba.com/).
