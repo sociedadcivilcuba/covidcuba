@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+![Image](http://derechossocialescuba.com/covidcuba/images/logo.png)
 
-You can use the [editor on GitHub](https://github.com/sociedadcivilcuba/covidcuba/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## COVID CUBA
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**COVID CUBA** es una aplicación gratuita desarrollada con el fin de proporcionar información actualizada en la lucha contra el _COVID-19_ a usuarios residentes en Cuba. Ofrece información sobre la pandemia, teléfonos de contacto, evalúa tus conocimientos, trucos, guías y un servicio de autoevaluación con respuestas a medida.
 
-### Markdown
+- Obtén información actualizada del COVID-19, cuales son sus síntomas comunes, cómo se transmite, cuales son los casos graves, cual es la población de riesgo
+- Consigue de manera fácil todos los teléfonos oficiales de ayuda al ciudadano
+- Te ofrecemos ideas y soluciones caseras para superar la situación
+- Juega y descubre cuanto conoces sobre el virus
+- Realiza un chequeo de autoevaluación que te mostará información personalizada para tu situación
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Contactos
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sociedadcivilcuba/covidcuba/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Visítanos en [Observatorio de Derechos Sociales - Cuba ](https://derechossocialescuba.org/).
