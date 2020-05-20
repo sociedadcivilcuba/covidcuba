@@ -1,4 +1,4 @@
-![Image](http://derechossocialescuba.com/covidcuba/images/logo.png)
+
 
 ## COVID CUBA
 
@@ -13,5 +13,7 @@
 
 
 ### Contactos
+
+![Image](http://derechossocialescuba.com/covidcuba/images/logo.png)
 
 Visítanos en [Observatorio de Derechos Sociales - Cuba ](https://derechossocialescuba.org/).
