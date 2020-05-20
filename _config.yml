@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 lang: "es-ES"
 title: "Covid Cuba"
 description: "Aplicación gratuita desarrollada con el fin de proporcionar información actualizada en la lucha contra el COVID-19 a usuarios residentes en Cuba"
+show_downloads: "true"
