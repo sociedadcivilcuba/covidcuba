@@ -1,4 +1,4 @@
-![Image](http://derechossocialescuba.com/covidcuba/images/logo.png)
+<p style="text-align:center;">![Image](http://derechossocialescuba.com/covidcuba/images/logo.png)</p>
 
 ## COVID CUBA
 
