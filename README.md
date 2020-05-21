@@ -18,5 +18,5 @@ Copia y comparte (por WhatsApp, email, etc.) el enlace para descargar esta aplic
 
 ## ¿PORQUÉ EN GITHUB?
 
-Más de 50 millones de desarrolladores confían a GitHub su código fuente; GitHub es una plataforma popular para almacenar y compartir proyectos de diversa índole, incluidas aplicaciones móbiles. La pregunta sería entonces, ¿porqué no aparece la aplicación CovidCuba en plataformas usuales como las tiendas de Google y de Apple? Pues se debe a las recientes políticas de ambas compañías en las que no aceptan colocar en sus respectivas tiendas aplicaciones relacionadas con el Covid-19 que no provengan de instituciones estatales o sanitarias reconocidas.
+Más de 50 millones de desarrolladores confían a GitHub su código fuente; GitHub es una plataforma popular para almacenar y compartir proyectos de diversa índole, incluidas aplicaciones móviles. La pregunta sería entonces, ¿porqué no aparece la aplicación CovidCuba en plataformas usuales como las tiendas de Google y de Apple? Pues se debe a las recientes políticas de ambas compañías en las que no aceptan colocar en sus respectivas tiendas aplicaciones relacionadas con el Covid-19 que no provengan de instituciones estatales o sanitarias reconocidas.
 
