@@ -9,7 +9,14 @@
 - Realiza un chequeo de autoevaluación que te mostará información personalizada para tu situación
 
 
+## COMPARTE
 
-### Contactos
+Comparte (por WhatsApp, email, etc.) el enlace para descargar esta aplicación: 
 
-Visítanos en [Observatorio de Derechos Sociales - Cuba ](https://derechossocialescuba.com/).
+** https://bit.ly/3g5JkU2 **
+
+
+## PORQUÉ APARECE EN GITHUB LA APLICACIÓN
+
+Más de 50 millones de desarrolladores confían a GitHub su código fuente; GitHub es una plataforma popular para almacenar y compartir proyectos de diversa índole, incluidas aplicaciones móbiles. La pregunta sería entonces, ¿porqué no aparece la aplicación CovidCuba en plataformas usuales como las tiendas de Google y de Apple? Pues se debe a las recientes políticas de ambas compañías en las que no aceptan colocar en sus respectivas tiendas aplicaciones relacionadas con el Covid-19 que no provengan de instituciones estatales o sanitarias reconocidas.
+
